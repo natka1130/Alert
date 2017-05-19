@@ -6,9 +6,6 @@ function onDeviceReady() {
 	navigator.notification.beep(1);
 }
 
-}
-
-
 function deviceInfo() {
 
 	info =  'Hi, I am your smartphone :-)' + '\n' +
